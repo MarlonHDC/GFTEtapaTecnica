@@ -1,0 +1,15 @@
+C:\DIO\GFTEtapaTecnica\bin\Debug\net6.0\GFTEtapaTecnica.exe
+C:\DIO\GFTEtapaTecnica\bin\Debug\net6.0\GFTEtapaTecnica.deps.json
+C:\DIO\GFTEtapaTecnica\bin\Debug\net6.0\GFTEtapaTecnica.runtimeconfig.json
+C:\DIO\GFTEtapaTecnica\bin\Debug\net6.0\GFTEtapaTecnica.dll
+C:\DIO\GFTEtapaTecnica\bin\Debug\net6.0\GFTEtapaTecnica.pdb
+C:\DIO\GFTEtapaTecnica\obj\Debug\net6.0\GFTEtapaTecnica.csproj.AssemblyReference.cache
+C:\DIO\GFTEtapaTecnica\obj\Debug\net6.0\GFTEtapaTecnica.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIO\GFTEtapaTecnica\obj\Debug\net6.0\GFTEtapaTecnica.AssemblyInfoInputs.cache
+C:\DIO\GFTEtapaTecnica\obj\Debug\net6.0\GFTEtapaTecnica.AssemblyInfo.cs
+C:\DIO\GFTEtapaTecnica\obj\Debug\net6.0\GFTEtapaTecnica.csproj.CoreCompileInputs.cache
+C:\DIO\GFTEtapaTecnica\obj\Debug\net6.0\GFTEtapaTecnica.dll
+C:\DIO\GFTEtapaTecnica\obj\Debug\net6.0\refint\GFTEtapaTecnica.dll
+C:\DIO\GFTEtapaTecnica\obj\Debug\net6.0\GFTEtapaTecnica.pdb
+C:\DIO\GFTEtapaTecnica\obj\Debug\net6.0\GFTEtapaTecnica.genruntimeconfig.cache
+C:\DIO\GFTEtapaTecnica\obj\Debug\net6.0\ref\GFTEtapaTecnica.dll
